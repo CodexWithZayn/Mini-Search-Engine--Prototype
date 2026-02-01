@@ -1,0 +1,21 @@
+# Build Output
+*.exe
+*.o
+*.obj
+*.dll
+bin/
+obj/
+build/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Local Config
+config.local
+secrets.h
